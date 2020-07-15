@@ -1,0 +1,6 @@
+settings:
+    video_player : C:\Program Files\VideoLAN\VLC\vlc.exe
+    main_language : Polski
+    download_subtitles : True
+    set_subtitles : True
+    no_download_subtitles_for_mkv : True
